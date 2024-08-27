@@ -1,4 +1,4 @@
-![](https://github.com/MdWazidAli/MdWazidAli/blob/main/White%20Beige%20Aesthetic%20Beauty%20Vlog%20Youtube%20Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Md Wazid Ali</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
